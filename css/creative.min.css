@@ -63,7 +63,8 @@ p {
 }
 
 .bg-gray {
-    background-color: #696969;
+  background-color: #424242;
+  color: white;
 }
 
 .text-faded {
