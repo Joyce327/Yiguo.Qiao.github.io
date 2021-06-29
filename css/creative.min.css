@@ -266,7 +266,6 @@ header .header-content .header-content-inner p {
     position: relative;
     display: block;
     max-width: 450px;
-    margin: auto;
     margin-left: 50px; 
     margin-right: 50px
 }
@@ -338,8 +337,8 @@ header .header-content .header-content-inner p {
 }
 
 .no-gutter > [class*=col-] {
-    padding-right: 100px;
-    padding-left: 100px
+    padding-right: 20px;
+    padding-left: 20px
 }
 
 .btn-default {
