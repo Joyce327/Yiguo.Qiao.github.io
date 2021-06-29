@@ -266,7 +266,7 @@ header .header-content .header-content-inner p {
     position: relative;
     display: block;
     max-width: 450px;
-    margin: 15px; 
+    margin: 15px auto; 
 }
 
 .portfolio-box .portfolio-box-caption {
@@ -336,8 +336,8 @@ header .header-content .header-content-inner p {
 }
 
 .no-gutter > [class*=col-] {
-    padding-right: 60px;
-    padding-left: 60px
+    padding-right: 100px;
+    padding-left: 100px
 }
 
 .btn-default {
