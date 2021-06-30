@@ -68,6 +68,11 @@ p {
   color: white;
 }
 
+.bg-orange {
+  background-color: #CB8377;
+  color: #C2C2BD;
+}
+
 .text-faded {
     color: rgba(255, 255, 255, .7)
 }
