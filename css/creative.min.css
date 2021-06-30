@@ -74,7 +74,12 @@ p {
 }
 
 .bg-mld {
-  background-color: #F6ECCE;
+  background-color: #A27F7F;
+  color: #767171
+}
+
+.bg-yellow{
+  background-color: #B09570;
   color: white
 }
 
