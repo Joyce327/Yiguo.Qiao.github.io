@@ -285,7 +285,7 @@ header .header-content .header-content-inner p {
 .portfolio-box {
     position: relative;
     display: block;
-    max-width: 550px;
+    max-width: 500px;
     margin: 15px auto; 
 }
 
@@ -356,8 +356,8 @@ header .header-content .header-content-inner p {
 }
 
 .no-gutter > [class*=col-] {
-    padding-right: 20px;
-    padding-left: 20px
+    padding-right: 30px;
+    padding-left: 30px
 }
 
 .btn-default {
