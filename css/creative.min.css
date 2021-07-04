@@ -360,6 +360,12 @@ header .header-content .header-content-inner p {
     padding-left: 30px
 }
 
+.no-gutter1 > [class*=col-] {
+    padding-right: 10px;
+    padding-left: 10px
+}
+
+
 .btn-default {
     color: #222;
     background-color: #fff;
