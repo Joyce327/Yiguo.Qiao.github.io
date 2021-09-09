@@ -52,12 +52,6 @@ a.one:link {color:#5E5C5F;}
 a.one:visited {color:#5E5C5F;}
 a.one:hover {color:#A8A6B0;}
  
-.demo2{
-        	color: #B6B4BC; 
-            font-size: 40px; 
-            text-shadow: -1px 1px 0 #000, 1px 1px 0 #000,1px -1px 0 #000,-1px -1px 0 #000; 
-        }
-
 p {
     font-size: 14px;
     line-height: 1.5;
