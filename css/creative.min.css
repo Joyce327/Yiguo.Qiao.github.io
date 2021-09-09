@@ -48,8 +48,8 @@ a:focus, a:hover {
     color: #359295;
 }
 
-a.one:link {color:#614F4F;}
-a.one:visited {color:#614F4F;}
+a.one:link {color:#56555F;}
+a.one:visited {color:#56555F;}
 a.one:hover {color:#B6B4BC;}
 p {
     font-size: 14px;
