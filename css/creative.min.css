@@ -48,7 +48,7 @@ a:focus, a:hover {
     color: #359295;
 }
 
-a.one:link {color:#56555F;text-shadow: -1px 1px 0 #fff, 1px 1px 0 #fff,1px -1px 0 #fff,-1px -1px 0 #fff;}
+a.one:link {color:#56555F;text-shadow: -1px 1px 0 #B6B4BC, 1px 1px 0 #B6B4BC,1px -1px 0 #B6B4BC,-1px -1px 0 #B6B4BC;}
 a.one:visited {color:#56555F;}
 a.one:hover {color:#B6B4BC;}
 
