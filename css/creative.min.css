@@ -48,9 +48,9 @@ a:focus, a:hover {
     color: #359295;
 }
 
-a.one:link {color:#5E5C5F;} 
-a.one:visited {color:#5E5C5F;}
-a.one:hover {color:#4F4E50;}
+a.one:link {color:#AAA5A8;} 
+a.one:visited {color:#AAA5A8;}
+a.one:hover {color:#5E5C5F;}
  
 p {
     font-size: 14px;
