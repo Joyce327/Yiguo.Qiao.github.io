@@ -48,8 +48,8 @@ a:focus, a:hover {
     color: #359295;
 }
 
-a.one:link {color:#56555F;text-shadow: -1px 1px 0 #7C7B89, 1px 1px 0 #7C7B89,1px -1px 0 #7C7B89,-1px -1px 0 #7C7B89;}
-a.one:visited {color:#56555F;}
+a.one:link {color:#5E5C5F;text-shadow: -1px 1px 0 #878787, 1px 1px 0 #878787,1px -1px 0 #878787,-1px -1px 0 #878787;}
+a.one:visited {color:#5E5C5F;}
 a.one:hover {color:#B6B4BC;}
 
 .demo2{
