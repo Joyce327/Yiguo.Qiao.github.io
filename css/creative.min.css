@@ -48,8 +48,8 @@ a:focus, a:hover {
     color: #359295;
 }
 
-a.one:link {color:#3D4B63;} 
-a.one:visited {color:#3D4B63;}
+a.one:link {color:#434F63;} 
+a.one:visited {color:#434F63;}
 a.one:hover {color:#965F3E;}
  
 p {
